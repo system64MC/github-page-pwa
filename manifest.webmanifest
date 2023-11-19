@@ -9,9 +9,9 @@
   "display": "standalone", 
   "icons": [
       {
-        "src": "/github-page-pwa/img/icon.png",
+        "src": "/github-page-pwa/favicon.png",
         "type": "image/png",
-        "sizes": "700x700"
+        "sizes": "256x256"
       }
   ]
 }
